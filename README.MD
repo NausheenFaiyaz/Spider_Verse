@@ -28,6 +28,10 @@ SpiderVerse Explorer is a React Native app that lets users discover different Sp
 - Expo Video (expo-video)
 - REST API (Superhero API)
 
+## APK Link
+
+[APK Download Link](https://github.com/NausheenFaiyaz/Spider_Verse/releases/tag/v1.0.0)
+
 ## Social link
 
 [X Post Link](https://x.com/codeXninjaDev/status/2039372780031123623)
